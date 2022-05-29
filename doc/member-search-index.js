@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Policies","l":"interestRate"},{"p":"<Unnamed>","c":"Policies","l":"serviceFees"}]
